@@ -1,1 +1,12 @@
+langchain
+langchain_groq
+langchain_community
+langgraph
+rizaio
+langchain_tavily
+langchain-openai
+amadeus
+streamlit
+python-dotenv 
+pydantic
 redis
